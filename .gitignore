@@ -1,0 +1,8 @@
+# # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+./admin/node_modules
+./api/node_modules
+./center/node_modules
+./patient/node_modules
+
